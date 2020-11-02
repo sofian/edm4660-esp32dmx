@@ -9,6 +9,6 @@
 
 ![Graphical datasheet ESP32](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/8/5/2/ESP32ThingPlusV20_GraphicalDatasheet.jpg)
 
-![ESP8266 vs ESP32](https://files.readme.io/854b6cc-esp8266-esp32.png)https://forum.pjrc.com/coremark_barchart.png)
+![ESP8266 vs ESP32](https://files.readme.io/854b6cc-esp8266-esp32.png)
 
 ![Benchmarks](https://forum.pjrc.com/coremark_barchart.png)
