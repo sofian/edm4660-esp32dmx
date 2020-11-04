@@ -51,19 +51,14 @@ void loop() {
   writeRgb(0, 0, 255, 1000);
 
   // Fade in.
-  writeRgb(0, 0, 0);
   for (int intensity=0; intensity<=255; intensity++) {
-    writeRgb(intensity, intensity, intensity);
-    delay(10);
+    writeRgb(intensity, intensity, intensity, 10);
   }
 
   // Fade out.
   for (int intensity=255; intensity>=0; intensity--) {
-    writeRgb(intensity, intensity, intensity);
-    delay(10);
+    writeRgb(intensity, intensity, intensity, 10);
   }
-
-  delay(10);
 }
 
 // Write RGB value for specific duration (in ms).
