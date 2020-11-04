@@ -14,7 +14,7 @@ Installez les dernières versions des logiciels [Arduino](https://www.arduino.cc
 Dans Arduino:
 * Suivez les instructions pour installer le ["board add-on" du ESP32](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions) (le microcontrôlleur que nous allons utiliser)
 * NOTE: Il n'est pas nécessaire de faire la procédure "Testing the Installation" avant le cours (à moins que vous ayez en votre possession un ESP32)
-*	Installer les librairies suivantes avec le [https://www.arduino.cc/en/guide/libraries]("Library manager"): ArtnetWifi, "Sparfun DMX Shield Library".
+* Installer les librairies suivantes avec le ["Library manager"](https://www.arduino.cc/en/guide/libraries): ArtnetWifi, "Sparfun DMX Shield Library".
 	
 Dans Processing: Installer la librairie suivante: "Artnet for Java and Processing"
 
